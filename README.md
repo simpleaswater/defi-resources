@@ -2,7 +2,7 @@ A curated list of awesome decentralized finance projects, software, DeFi project
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), consider adding a [pull request]() or contact me [@simpleaswater_](https://twitter.com/simpleaswater_).
+If you want to contribute to this list (please do), consider adding a [pull request](https://github.com/simpleaswater/defi-resources/pulls) or contact me [@simpleaswater_](https://twitter.com/simpleaswater_).
 
 ## What is Decentralized Finance?
 
@@ -631,7 +631,7 @@ New type of crowdfunding, community-driven VCs
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@simpleaswater_](https://twitter.com/simpleaswater_).
+If you want to contribute to this list (please do), consider adding a [pull request](https://github.com/simpleaswater/defi-resources/pulls) or contact me [@simpleaswater_](https://twitter.com/simpleaswater_).
 
 ## License
 
