@@ -636,3 +636,7 @@ If you want to contribute to this list (please do), consider adding a [pull requ
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Copyright (c) 2020 Vadym Nesterenko (https://github.com/Dijkstrax/awesome-defi-product-management/blob/master/LICENSE)
+Copyright (c) 2020 Edwin Ong (https://github.com/ong/awesome-decentralized-finance)
+Copyright (c) 2020 Cole Kennelly (https://github.com/colekennelly1/awesome-defi-trackers)
