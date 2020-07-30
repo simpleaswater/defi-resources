@@ -227,6 +227,9 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 <a name="community" />
 
+## Articles
+  - [Creating a liquidation script for Aave DeFi protocol](https://medium.com/coinmonks/creating-a-liquidation-script-for-aave-defi-protocol-ef584ad87e8f)
+
 ## Community
 * [DeFi Reddit](https://www.reddit.com/r/defi/)
 * [DeFi Telegram](https://t.me/de_fi)
