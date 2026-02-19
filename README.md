@@ -557,7 +557,9 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 2. [Our Network](https://ournetwork.substack.com), the newsletter about on-chain analytics
 3. [The Graph](https://thegraph.com/) allows you easily get any public data from blockchain
 4. [DeFi Pulse](https://defipulse.com/). Here you can track one of the main DeFi product metric Total Value Locked (TVL) for exisiting dApps
-5. [DeFi Market Cap](https://defimarketcap.io/) 
+5. [DeFi Market Cap](https://defimarketcap.io/)
+6. [ChartScout](https://chartscout.io) - Real-time crypto chart pattern detection and trading alerts across multiple exchanges.
+
 
 ## Business models and pricing
 1. [The crypto price innovation cycle](https://a16z.com/2020/05/15/the-crypto-price-innovation-cycle/) by Chris Dixon and Eddy Lazzarin
