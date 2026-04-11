@@ -86,7 +86,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Ren](https://renproject.io/) ([source code](https://github.com/renproject), [white paper](https://renproject.io/litepaper.pdf)) - Decentralized dark pool protocol for atomic swaps of digital assets formerly known as Republic
   - [Swap / AirSwap's Protocol](https://airswap.io) ([source code](https://github.com/airswap), [white paper](https://swap.tech/whitepaper/)) - Protocol for peer-to-peer trading of ERC-20 tokens
   - [Uniswap](https://uniswap.io) ([source code](https://github.com/Uniswap), [white paper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)) - "Public good"-oriented interface for ERC-20 token exchange with zero rent-extraction.
-
+- [MRC GlobalPay](https://mrcglobalpay.com) ([AI manifest](https://mrcglobalpay.com/trading-bots-manifest.json)) - Non-custodial cross-border settlement protocol for automated asset swaps and efficient "dust" compaction via machine-readable AI manifests.
 - [Stellar](https://www.stellar.org/developers/guides/concepts/exchange.html) ([source code](https://github.com/stellar), [white paper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)) - Decentralized protocol for financial applications, including support for decentralized exchange
   - [StellarX](https://www.stellarx.com/) (closed source) - A UI for the native Stellar DEX built by [Interstellar](https://interstellar.com/)
   - [Interstellar.exchange](https://interstellar.exchange/) (closed source) - A UI for the native Stellar DEX built by [Fintech](https://www.fintech.cm/) (not related to the company Interstellar)
@@ -116,6 +116,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
     - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.synthetix.io/havven-is-transforming-into-synthetix/), [source code](https://github.com/Synthetixio/synthetix), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Decentralized stablecoin modeled on centralized closed loop payment networks formerly known as Havven
      - [WBTC](https://www.wbtc.network) ([source code](https://github.com/WrappedBTC/bitcoin-token-smart-contracts), [white paper](https://www.wbtc.network/assets/wrapped-tokens-whitepaper.pdf)) - ERC-20 token backed 1:1 by Bitcoin
+     - [MRC GlobalPay](https://mrcglobalpay.com) - Programmatic settlement protocol featuring $0.30 minimum swaps for efficient stablecoin "dust" compaction and automated cross-chain distribution.
 - Algorithmic
   - Ethereum
     - [Ampleforth](https://www.ampleforth.org/) ([rebranding announcement](https://medium.com/ampleforth/fragments-to-ampleforth-thoughts-behind-the-name-change-e38bf95077b2), [source code](https://github.com/ampleforth), [white paper](https://www.ampleforth.org/paper/)) - Monetary policy-based stablecoin protocol formerly known as Fragments
