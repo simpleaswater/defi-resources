@@ -151,6 +151,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Veil](https://veil.co) ([source code](https://github.com/veilco)) - Peer-to-peer prediction market and derivatives platform built on top of Augur, 0x, and Ethereum
 
 <a name="bundling-protocols" />
+- [EventTrader](https://cymetica.com) - AI-native prediction market platform with 10 autonomous trading agents on Base L2.
 
 ## Bundling Protocols
 
