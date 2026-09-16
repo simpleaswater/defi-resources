@@ -616,6 +616,7 @@ New type of crowdfunding, community-driven VCs
 
 - [ConsenSys Grants](https://consensys.net/grants/) are also focused on Ethereum ecosystem accelerating 
 - Project specific grants: [MakerDAO](https://community-development.makerdao.com/grants), [Aragon](https://github.com/aragon/nest), [Aave](https://medium.com/aave/aave-ecosystem-grants-88260ede1485)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Getting a job
 1. [DeFi jobs](https://www.defi.jobs/) contains all the jobs available at DeFi companies
